@@ -1,0 +1,20 @@
+[Desktop Entry]
+Categories=System;Monitor;
+Comment[fr_FR]=
+Comment=
+Exec=conky --daemonize --pause=1 --quiet --config ~/.config/conky.conf
+GenericName[fr_FR]=
+GenericName=
+Icon=conky-logomark-violet
+MimeType=
+Name[fr_FR]=conky
+Name=conky
+Path=
+StartupNotify=false
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
